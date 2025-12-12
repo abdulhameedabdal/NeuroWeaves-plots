@@ -29,7 +29,7 @@ Scripts are modular and can be run independently once required variables are loa
 - Signal Processing Toolbox
 
 ## Notes
-This code is provided to support transparency and reproducibility of the NeuroWeaves study. It is intended for research use and may require minor adaptation for different hardware or experimental protocols.
+This code is provided to support transparency and reproducibility of the NeuroWeaves study. It is intended for research use and may require adaptation for different hardware or experimental protocols.
 
 ## Citation
 If you use this code, please cite the associated NeuroWeaves publication.
